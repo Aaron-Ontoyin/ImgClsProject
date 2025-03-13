@@ -68,8 +68,9 @@ uvicorn src.main:app --reload
 
 ## Frontend Screenshots
 
-![image](https://github.com/user-attachments/assets/7fe425e2-2e3e-4541-a61d-e622e476da3c)
-![image](https://github.com/user-attachments/assets/f98a6536-cf9b-4f61-a47e-23756193c29d)
+![image](https://github.com/user-attachments/assets/28a94e1a-faca-4219-9a4e-5ce5ee912403)
+
+![image](https://github.com/user-attachments/assets/25cba6ed-048c-4c0c-a419-f377f8835eef)
 
 
 ## Model Performance
